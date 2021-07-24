@@ -13,7 +13,6 @@
 		{
 			"hook_id" : "lib/units/beings/player/playerdamage", 
 			"script_path" : "playerdamage.lua"
-
 		}
     ]
 }
