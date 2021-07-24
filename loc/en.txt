@@ -1,0 +1,56 @@
+{
+	"Berserker_Help_mod_main_menu_title" : "Berserker Live Matters",
+	"Berserker_Help_mod_main_menu_desc" : "Helps keeping your health at a good berserker level",
+
+	"Berserker_Help_mod_profile_menu_title" : "Individual Skillsets",
+	"Berserker_Help_mod_profile_menu_desc" : "Values for each individual skillset",
+	"Berserker_Help_mod_indiv_profile_menu_desc" : "Values for skillset '$skillset_name'",
+
+	"Berserker_Help_mod_disable_title" : "Oppressive host",
+	"Berserker_Help_mod_disable_desc" : "If host, restrict options for clients to most generous options among all your skillsets",
+
+	"Berserker_Help_mod_opp_host_diplay_title" : "Check Oppressive host settings",
+	"Berserker_Help_mod_opp_host_diplay_desc" : "Click this to check your current restrictions",
+
+	"Berserker_Help_mod_mult_title" : "Revive Health",
+	"Berserker_Help_mod_mult_desc" : "Health Multiplier after revive",
+
+	"Berserker_Help_mod_combat_cancer_title" : "No Combat Medic Ace effect",
+	"Berserker_Help_mod_combat_cancer_desc" : "When ticked Combat Medic Ace will not give you 30% extra health after being revived",
+
+	"Berserker_Help_mod_hacker_cancer_title" : "No 'Botnet' (Hacker Tier 9) effect",
+	"Berserker_Help_mod_hacker_cancer_desc" : "When ticked a kill while a teammate's Pocket ECM is active will not grant health",
+
+	"Berserker_Help_mod_tag_team_cancer_title" : "No 'Soul Mates' (Tag Team Tier 1) effect",
+	"Berserker_Help_mod_tag_team_cancer_desc" : "When ticked a kill while tagged will not grant health",
+
+	"Berserker_Help_mod_fixed_title" : "Fixed Max Health",
+	"Berserker_Help_mod_fixed_desc" : "Your health starts at the revive health multiplier and can never exceed it",
+
+	"Berserker_Help_mod_lobby_restricted" : "Host has set the following restrictions in this lobby:",
+	"Berserker_Help_mod_lobby_restricted_host_poss" : "The following restrictions would be set in your lobbies:",
+	"Berserker_Help_mod_lobby_restricted_host_real" : "The following restrictions are set in your lobbies:",
+	"Berserker_Help_mod_lobby_mult_restr" : "- The lowest Revive Health Multiplier is $multiplier",
+	"Berserker_Help_mod_lobby_fixed_restr" : "- No Fixed Max Health",
+	"Berserker_Help_mod_lobby_unrestricted" : "Host has lifted all restrictions in this lobby",
+	"Berserker_Help_mod_lobby_unrestricted_host_poss" : "No restrictions could be set in your lobbies",
+	"Berserker_Help_mod_lobby_unrestricted_host_real" : "No restrictions can be set in your lobbies",
+
+	"Berserker_Help_mod_1mult" : "Default",
+	"Berserker_Help_mod_2mult" : "10%%",
+	"Berserker_Help_mod_3mult" : "0%%",
+
+	"Berserker_Help_mod_1_mult" : "Default",
+	"Berserker_Help_mod_2_mult" : "10%",
+	"Berserker_Help_mod_3_mult" : "0%",
+
+	"Berserker_Help_mod_upgrade_problem" : "Your mod settings have been upgraded to the latest version. An option you chose is no longer supported. For more information check the changelog on modworkshop.",
+	"Berserker_Help_mod_upgrade_error" : "The mod found settings with higher version number than it can process. This may happen when downgrading the mod or tampering with the savefile. Proceed at your own risk.",
+
+	"Berserker_Help_mod_use_default_title" : "Use default ruleset",
+	"Berserker_Help_mod_use_default_desc" : "Use default ruleset for this skillset",
+	
+	"Berserker_Help_mod_force_application_title" : "No Berserker Ace required",
+	"Berserker_Help_mod_force_application_desc" : "Ruleset is applied even if Berserker is not aced (useful for Berserker Basic builds or extra challenge)"
+
+}

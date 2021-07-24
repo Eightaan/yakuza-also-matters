@@ -1,0 +1,56 @@
+{
+    "Berserker_Help_mod_main_menu_title" : "Berserker Live Matters",
+    "Berserker_Help_mod_main_menu_desc" : "控制您的血量，然后对那些条子们大开杀戒！",
+
+    "Berserker_Help_mod_profile_menu_title" : "配置设置",
+    "Berserker_Help_mod_profile_menu_desc" : "为每个配置页精选专属设置",
+    "Berserker_Help_mod_indiv_profile_menu_desc" : "点击以设置配置页 '$skillset_name'",
+
+    "Berserker_Help_mod_disable_title" : "同步设置",
+    "Berserker_Help_mod_disable_desc" : "当您为主机时，您的设置将同步到同样拥有本模组的客机",
+
+    "Berserker_Help_mod_opp_host_diplay_title" : "检视同步设置",
+    "Berserker_Help_mod_opp_host_diplay_desc" : "单击以检视同步设置",
+
+    "Berserker_Help_mod_mult_title" : "血量上限",
+    "Berserker_Help_mod_mult_desc" : "限制被救起后获得的血量",
+
+    "Berserker_Help_mod_combat_cancer_title" : "屏蔽战地急救加成",
+    "Berserker_Help_mod_combat_cancer_desc" : "勾选后，\“战地急救\”提供的30%额外血量加成将被屏蔽",
+
+    "Berserker_Help_mod_hacker_cancer_title" : "屏蔽僵尸网络加成",
+    "Berserker_Help_mod_hacker_cancer_desc" : "勾选后，全队击杀的恢复效果将被屏蔽 \n \“僵尸网络\”为黑客天赋的第九张牌",
+
+    "Berserker_Help_mod_tag_team_cancer_title" : "屏蔽灵魂伴侣加成",
+    "Berserker_Help_mod_tag_team_cancer_desc" : "勾选后，电子烟的恢复效果将被屏蔽 \n \“灵魂伴侣\”为双人组天赋的第一张牌 ",
+
+    "Berserker_Help_mod_fixed_title" : "锁定最高血量上限",
+    "Berserker_Help_mod_fixed_desc" : "勾选后，您的血量不会超过您的设置的血量上限",
+
+    "Berserker_Help_mod_lobby_restricted" : "主机启用了以下限制：",
+    "Berserker_Help_mod_lobby_restricted_host_poss" : "以下限制将被应用在您的大厅：",
+    "Berserker_Help_mod_lobby_restricted_host_real" : "以下限制已被应用在您的大厅：",
+    "Berserker_Help_mod_lobby_mult_restr" : "- 被救起时最低血量上限为$multiplier",
+    "Berserker_Help_mod_lobby_fixed_restr" : "- 没有锁定最高血量上限",
+    "Berserker_Help_mod_lobby_unrestricted" : "主机取消了所有的限制",
+    "Berserker_Help_mod_lobby_unrestricted_host_poss" : "您的大厅中没有启用任何限制",
+    "Berserker_Help_mod_lobby_unrestricted_host_real" : "您的大厅中没有任何可以启用的限制",
+
+    "Berserker_Help_mod_1mult" : "默认",
+    "Berserker_Help_mod_2mult" : "10%%",
+    "Berserker_Help_mod_3mult" : "0%%",
+
+    "Berserker_Help_mod_1_mult" : "默认",
+    "Berserker_Help_mod_2_mult" : "10%",
+    "Berserker_Help_mod_3_mult" : "0%",
+
+    "Berserker_Help_mod_upgrade_problem" : "您的模组已升级到最新版本，您选择的选项不再有效。有关更多信息，请访问modworkshop上的更新记录。 ",
+    "Berserker_Help_mod_upgrade_error" : "当前模组版本与游戏版本不一致，降级模组或篡改保存文件时可能会发生这种情况，如果您继续使用，您需要承担其带来的风险。",
+
+    "Berserker_Help_mod_use_default_title" : "使用通用设置",
+    "Berserker_Help_mod_use_default_desc" : "为本配置页套用通用设置",
+
+    "Berserker_Help_mod_force_application_title" : "不需要狂战士技能",
+    "Berserker_Help_mod_force_application_desc" : "即使您没有精通\“狂战士\”技能，您的血量依然会被限制"
+
+}
