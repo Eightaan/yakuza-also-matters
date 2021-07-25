@@ -16,7 +16,7 @@ function LowHP:Load()
 	or Global.game_settings.level_id == 'bex' 
 	or Global.game_settings.level_id == 'fex' 
 	or Global.game_settings.level_id == 'nightclub' 
-	or Global.game_settings.level_id == 'kosuji' 
+	or Global.game_settings.level_id == 'kosugi' 
 	or Global.game_settings.level_id == 'arm_for' 
 	or Global.game_settings.level_id == 'sah' 
 	or Global.game_settings.level_id == 'chas' 
